@@ -1,0 +1,16 @@
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\LeThanhDat-T2009M1.csproj.AssemblyReference.cache
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\App.g.i.cs
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\App.g.cs
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\MainPage.g.cs
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\Pages\ContactForm.g.i.cs
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\Pages\ContactForm.g.cs
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\App.xaml
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\MainPage.xaml
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\Pages\ContactForm.xaml
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\App.xbf
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\MainPage.xbf
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\Pages\ContactForm.xbf
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\TPC\source\repos\LeThanhDat-T2009M1\LeThanhDat-T2009M1\obj\x86\Debug\LeThanhDat-T2009M1.csproj.CoreCompileInputs.cache
